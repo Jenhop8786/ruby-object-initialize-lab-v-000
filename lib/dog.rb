@@ -18,6 +18,6 @@ class Dog
    @name
  end
 end
-fido=Dog.new(beagle)
+fido=Dog.new(fido)
 fido.name = "fido"
 fido.breed = "beagle"
