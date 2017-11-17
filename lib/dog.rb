@@ -4,6 +4,4 @@ class Dog
     @breed = breed
   end
 end
-fido=Dog.new(fido)
-fido.name = "fido"
-fido.breed = "beagle"
+
